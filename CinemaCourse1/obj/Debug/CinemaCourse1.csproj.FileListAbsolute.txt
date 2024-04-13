@@ -1,0 +1,10 @@
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\bin\Debug\CinemaCourse1.exe.config
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\bin\Debug\CinemaCourse1.exe
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\bin\Debug\CinemaCourse1.pdb
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.csproj.AssemblyReference.cache
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.Form1.resources
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.Properties.Resources.resources
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.csproj.GenerateResource.cache
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.csproj.CoreCompileInputs.cache
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.exe
+C:\Users\sjdro\source\repos\CinemaCourse1\CinemaCourse1\obj\Debug\CinemaCourse1.pdb
